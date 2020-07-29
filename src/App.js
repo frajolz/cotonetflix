@@ -22,22 +22,22 @@ function App() {
       />
 
       <Carousel 
-        ignoreFirstVideo
+        //ignoreFirstVideo
         category={dadosIniciais.categorias[1]}
       />
 
       <Carousel 
-        ignoreFirstVideo
+        //ignoreFirstVideo
         category={dadosIniciais.categorias[2]}
       />
 
       <Carousel 
-        ignoreFirstVideo
+        //ignoreFirstVideo
         category={dadosIniciais.categorias[3]}
       />
 
       <Carousel 
-        ignoreFirstVideo
+        //ignoreFirstVideo
         category={dadosIniciais.categorias[4]}
       />
 
