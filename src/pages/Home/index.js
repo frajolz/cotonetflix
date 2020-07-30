@@ -13,7 +13,7 @@ function Home() {
       <BannerMain 
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Burn - but in 60's style"}
+        videoDescription={"Esse é o destaque de hoje :)"}
       />
 
       <Carousel 
